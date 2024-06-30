@@ -2,6 +2,12 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# Some Screenshots 
+<img src="https://github.com/HardCoder404/react-native-app/assets/127084297/2c26a775-0828-4495-b6a7-68ac18ad8818" width="35%" height="35%">
+<img src="https://github.com/HardCoder404/react-native-app/assets/127084297/7f69fd3a-cdf8-4d8e-b488-8b1bdb898adf" width="35%" height="35%">
+<img src="https://github.com/HardCoder404/react-native-app/assets/127084297/cd985f10-68c1-4715-bf2b-1d63e06debeb" width="35%" height="35%">
+<img src="https://github.com/HardCoder404/react-native-app/assets/127084297/d8c27792-ca80-42d4-b815-26fdece436e8" width="35%" height="35%">
+
 ## Get started
 
 1. Install dependencies
